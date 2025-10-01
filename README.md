@@ -1,6 +1,5 @@
 
 ## Build a version of PayTM
-Paytm Complete Solution
 
 A full-stack Paytm-like money transfer application built with React, Tailwind CSS, Node.js, Express, MongoDB, and Docker.
 
